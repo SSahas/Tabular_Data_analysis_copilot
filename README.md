@@ -2,6 +2,9 @@
 
 A tabular analysis agent which can extract and analyze tables from PDF files.This system helps  perform intelligent and automated analysis on structured data without writing manual code. It was mainly built using langGraph. 
 
+- The crete_data.py is used to extract the tables from the input pdf
+- The main.py contains all the agentic functionality.
+
 ## Installation
 
 1. Clone the repository:
