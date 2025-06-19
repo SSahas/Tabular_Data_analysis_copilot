@@ -24,6 +24,9 @@ pip install -r requirements.txt
 ```
 
 4. extract tables
+
+- Please don't change the --output_dir argument , keep it "pdf_data". The agent uses this name to function to load the data tables.
+
 ```bash
 python create_data.py  "sample_pdf_document.pdf" --output_dir "pdf_data"
 ```
