@@ -7,7 +7,7 @@ A tabular analysis agent which can extract and analyze tables from PDF files.Thi
 1. Clone the repository:
 ```bash
 git clone https://github.com/SSahas/Tabular_Data_analysis_copilot.git
-cd data-analysis-copilot
+cd Tabular_Data_analysis_copilot
 ```
 
 2. Create a .env file and add anthropic api key
