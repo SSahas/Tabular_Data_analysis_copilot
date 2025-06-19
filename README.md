@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 4. extract tables
 ```bash
-python create_data.py  "sample_pdf_document.pdf" --output_dir "path/to/where_you_want_store_extarcted_tabelfiles"
+python create_data.py  "sample_pdf_document.pdf" --output_dir "pdf_data"
 ```
 
 5. Run the main.py file
